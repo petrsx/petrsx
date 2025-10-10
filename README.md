@@ -2,7 +2,7 @@
 
 I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and other interresting tools
 
-[LinkedIn](https://www.linkedin.com/in/petr-stupka)
+[LinkedIn](https://www.linkedin.com/in/petrsx)
 
 ### Certified
 
@@ -15,7 +15,7 @@ I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and
 	
 ### Github
 
-- [Terraform Actions](https://github.com/petr-stupka/terraform-github-actions) - Plan, Appy & Drift detection
+- [Terraform Actions](https://github.com/petrsx/terraform-github-actions) - Plan, Appy & Drift detection
 
 ### Interresting content
 
@@ -27,7 +27,7 @@ I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and
 		
 ### ⭐ GitHub Stats
 
-[![Petr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petr-stupka&show_icons=true)](https://github.com/petr-stupka)
+[![Petr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=petrsx&show_icons=true)](https://github.com/petrsx)
 <!--
 **petr-stupka/petr-stupka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
