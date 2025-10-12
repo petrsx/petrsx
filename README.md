@@ -8,7 +8,7 @@ I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and
 
 <p>
 	<img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="120" />
-	<img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="110" />
+	<img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="110" />
 </p>
 
 ## Interresting topics
