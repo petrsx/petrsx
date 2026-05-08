@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and other interresting tools
+I’m Petr, a tech enthusiast who like to explore GitHub, Azure, Terraform and other interresting tools
 
 [LinkedIn](https://www.linkedin.com/in/petr-stupka)
 
